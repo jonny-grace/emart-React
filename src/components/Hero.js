@@ -22,7 +22,7 @@ const Hero = () => {
         </div>
         {/* image */}
         <div className="hidden lg:block">
-          <img src={womenImg} alt="woman" className="w-full" />
+          <img src={womenImg} alt="woman" className="w-full h-[500px]" />
         </div>
       </div>
     </section>
